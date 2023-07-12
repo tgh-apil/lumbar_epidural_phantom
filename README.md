@@ -1,5 +1,5 @@
 # APIL Normal Spine Epidural Phantom
-![Alt text](images/edited/assembled.png)
+![Alt text](images/edited/lumbar_spine_phantom.png)
 
 3D Printed lumbar epidural spine based on CT data.  Our epidural spine phantom is encased in an synthetic, shelf-stable gel which has a realistic tactile feel to human muscle and is echogenic.  We can augment the echogenic properties to be transparent (clear gel) to mimicing that of biological tissue (opaque) based on the learning objective. Additionally, the Normal Spine Epidural Phantom contains an echogenic faux-thecal sac to replicate loss-of resistance on puncture.  The faux-thecal sca can be inflated with water to simulate spinal fluid.
 
